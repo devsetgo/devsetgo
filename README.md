@@ -1,4 +1,3 @@
-[![twitter](https://img.shields.io/twitter/follow/_devsetgo)](https://twitter.com/_devsetgo)
 [![GitHub](https://img.shields.io/github/stars/devsetgo?style=social)](https://github.com/devsetgo?tab=repositories)
 https://img.shields.io/github/stars/devsetgo?style=social
 # Hello / Dia dhuit
