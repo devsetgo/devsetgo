@@ -1,5 +1,4 @@
 [![GitHub](https://img.shields.io/github/stars/devsetgo?style=social)](https://github.com/devsetgo?tab=repositories)
-https://img.shields.io/github/stars/devsetgo?style=social
 # Hello / Dia dhuit
 
 I love Python and BPMN tools (workflow/modeling). Trying to find the time to learn Go and Vue. My bearla is better than my gaelige.
