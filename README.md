@@ -1,7 +1,7 @@
 [![GitHub](https://img.shields.io/github/stars/devsetgo?style=social)](https://github.com/devsetgo?tab=repositories)
 # Hello / Dia dhuit
 
-I love Python and BPMN tools (workflow/modeling). Trying to find the time to learn Go and Vue. My bearla is better than my gaelige.
+Fan of Python and BPMN tools (workflow/modeling). Trying to find the time to learn Go and Vue. My bearla is better than my gaelige.
 
 Feel free to help or fork anything.
 
