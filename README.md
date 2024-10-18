@@ -3,7 +3,7 @@
 
 Fan of Python and BPMN tools (workflow/modeling). Trying to find the time to learn Go and Vue. My bearla is better than my gaelige.
 
-Feel free to help or fork anything.
+Feel free to help out or fork anything.
 
 ## Current Projects
 
@@ -12,3 +12,17 @@ Feel free to help or fork anything.
     [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=devsetgo_devsetgo_lib&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=devsetgo_devsetgo_lib)
     [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=devsetgo_devsetgo_lib&metric=coverage)](https://sonarcloud.io/summary/new_code?id=devsetgo_devsetgo_lib)
     [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=devsetgo_devsetgo_lib&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=devsetgo_devsetgo_lib)
+
+- BumpCalver: A CLI tool to automate version bumping based on a calendar
+    - [![PyPI version fury.io](https://badge.fury.io/py/bumpcalver.svg)](https://pypi.python.org/pypi/bumpcalver/)
+    [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=devsetgo_bumpcalver&metric=coverage)](https://sonarcloud.io/dashboard?id=devsetgo_bumpcalver)
+    [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=devsetgo_bumpcalver&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=devsetgo_bumpcalver)
+    [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=devsetgo_bumpcalver&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=devsetgo_bumpcalver)
+
+- DevSetGo.com: My personal website
+    - Git URL: [TestAPI](https://github.com/devsetgo/dsg)
+    - Website: [DevSetGo.com](https://devsetgo.com)
+
+## Useful, but Archived Projects
+- TestAPI: A FastAPI project to learn and use for basic ideas
+    - Git URL: [TestAPI](https://github.com/devsetgo/test-api)
