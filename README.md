@@ -26,3 +26,12 @@ Feel free to help out or fork anything.
 ## Useful, but Archived Projects
 - TestAPI: A FastAPI project to learn and use for basic ideas
     - Git URL: [TestAPI](https://github.com/devsetgo/test-api)
+
+
+### Metrics and Stats
+![Visitor's Count](https://profile-counter.glitch.me/devsetgo/count.svg)
+
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devsetgo&theme=github)](https://github.com/devsetgo/github-readme-activity-graph)
+
+![devsetgo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsetgo&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en)
+![devsetgo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=devsetgo&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en)
